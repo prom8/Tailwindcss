@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "How a basic complete tailwindcss installation looks",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/tailwind.css -o ./public/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prom8/Tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prom8/Tailwindcss/issues"
+  },
+  "homepage": "https://github.com/prom8/Tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}

@@ -9,9 +9,9 @@
     <br/>
     <br/>
   
-    <a href="https://github.com/prom8/Tailwindcss/issues">Report Bug</a>
+    [Report Bug](https://github.com/prom8/Tailwindcss/issues)
     .
-    <a href="https://github.com/prom8/Tailwindcss/issues">Request Feature</a>
+    [Request Feature](https://github.com/prom8/Tailwindcss/issues)
   </p>
 </p>
 

@@ -8,11 +8,11 @@
     <a href="https://github.com/prom8/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-  
-    [Report Bug](https://github.com/prom8/Tailwindcss/issues)
-    .
-    [Request Feature](https://github.com/prom8/Tailwindcss/issues)
+
   </p>
 </p>
+
+ - [Report Bug](https://github.com/prom8/Tailwindcss/issues)
+ - [Request Feature](https://github.com/prom8/Tailwindcss/issues)
 
 ![Contributors](https://img.shields.io/github/contributors/prom8/Tailwindcss?color=dark-green) ![Issues](https://img.shields.io/github/issues/prom8/Tailwindcss) ![License](https://img.shields.io/github/license/prom8/Tailwindcss) 

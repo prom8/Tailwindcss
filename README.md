@@ -2,7 +2,7 @@
   <h1 align="center">Basics of Tailwindcss</h1>
 
   <p align="center">
-    This repo is for those strugling with github intallation or missing some documents when installing. This is to show some of the stuggles I went through and the solution to them 
+    This repo is for those strugling with github installation or missing some documents when installing. This is to show some of the stuggles I went through and the solution to them 
     <br/>
     <br/>
     <a href="https://github.com/prom8/"><strong>Explore the docs »</strong></a>
